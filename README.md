@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there! I’m Nady — on a lifelong learning journey
 
 I'm **Abdelrahman Nady**, a Computer Engineer who’s always driven by curiosity and the desire to **keep learning and improving**.  
 I’m passionate about **backend development, AI, and front-end engineering**, and I’m constantly exploring new technologies to sharpen my skills.  
