@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-I'm **Abdelrahman Nady**, a Computer Engineer passionate about **backend development, AI, and front-end engineering**.  
-I enjoy building scalable systems, training AI models, and developing full-stack solutions that connect powerful backends with clean, responsive UIs.
+I'm **Abdelrahman Nady**, a Computer Engineer who’s always driven by curiosity and the desire to **keep learning and improving**.  
+I’m passionate about **backend development, AI, and front-end engineering**, and I’m constantly exploring new technologies to sharpen my skills.  
+For me, learning isn’t just a phase — it’s a habit. I love diving into new frameworks, experimenting with ideas, and understanding how things work from the inside out.
 
 ---
 
