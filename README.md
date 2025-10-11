@@ -13,8 +13,8 @@ For me, learning isn’t just a phase — it’s a habit. I love diving into new
   Advanced **backend patterns**, database management with **PostgreSQL**, and **frontend frameworks** like React or Angular.
 
 - 👯 I’m looking to collaborate on:  
-  Open-source projects in **Python**, **Django**, **Flask**, or **front-end web development**.
-
+  Open-source projects in **Back-End Development**.
+  
 - 🤔 I’m looking for help with:  
   Contributing to large-scale **AI model training** or **backend infrastructure** projects.
 
