@@ -10,20 +10,17 @@ For me, learning isn’t just a phase — it’s a habit. I love diving into new
   A **Full-Stack Python** scholarship at ITI, focusing on Django, REST APIs, and server-side logic.
 
 - 🌱 I’m currently learning:  
-  Advanced **backend patterns**, database management with **PostgreSQL**, and **frontend frameworks** like React or Angular.
+  Advanced **backend patterns**, database management with **PostgreSQL**, and **frontend** with React.
 
 - 👯 I’m looking to collaborate on:  
   Open-source projects in **Back-End Development**.
-  
-- 🤔 I’m looking for help with:  
-  Contributing to large-scale **AI model training** or **backend infrastructure** projects.
 
-- 💬 Ask me about:  
+  - 💬 Ask me about:  
   Python, Django, REST APIs, PostgreSQL, or front-end integration.
 
 - 📫 How to reach me:  
   📧 [nady.20545@gmail.com](mailto:nady.20545@gmail.com)  
-  🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-nady-02576424a/) | [GitHub](https://github.com/Abdo-Nady) | [LeetCode](https://leetcode.com/u/abdo-nady/) | [Codewars](https://www.codewars.com/users/Abdo-Nady)
+  🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-nady-02576424a/) | [LeetCode](https://leetcode.com/u/abdo-nady/) | [Codewars](https://www.codewars.com/users/Abdo-Nady)
 
 - ⚡ Fun fact:  
   I once built a **Tour Guide Robot** that can navigate and interact autonomously — combining **AI**, **IoT**, and **mobile app** control.
@@ -31,7 +28,7 @@ For me, learning isn’t just a phase — it’s a habit. I love diving into new
 ---
 
 ### 🧰 Tech Stack
-`Python` · `Django` · `Flask` · `PostgreSQL` · `MySQL` · `MongoDB` · `HTML` · `CSS` · `JavaScript` · `Angular` · `React` · `Git`
+`Python` · `Django` · `Flask` · `PostgreSQL` · `MySQL` · `MongoDB` · `HTML` · `CSS` · `JavaScript` · `React` · `Git` . `GitHub`
 
 ---
 
