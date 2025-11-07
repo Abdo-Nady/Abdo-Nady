@@ -40,7 +40,7 @@ For me, learning isn’t just a phase — it’s a habit. I love diving into new
 ---
 
 ### 💡 Quote I like
-> “The man who moves a mountain begins by carrying away small stones.” — Confucius
+> “The important thing is not to stop questioning. Curiosity has its own reason for existing.” — Albert Einstein
 
 ---
 
