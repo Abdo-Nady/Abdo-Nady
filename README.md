@@ -6,13 +6,13 @@ For me, learning isn’t just a phase — it’s a habit. I love diving into new
 
 ---
 
-- 🔭 I’m currently working on:  
+- I’m currently working on:  
   A **Full-Stack Python** scholarship at ITI, focusing on Django, REST APIs, and server-side logic.
 
-- 🌱 I’m currently learning:  
+- I’m currently learning:  
   Advanced **backend patterns**, database management with **PostgreSQL**, and **frontend** with React.
 
-- 👯 I’m looking to collaborate on:  
+- I’m looking to collaborate on:  
   Open-source projects in **Back-End Development**.
 
   - 💬 Ask me about:  
@@ -27,12 +27,10 @@ For me, learning isn’t just a phase — it’s a habit. I love diving into new
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 `Python` · `Django` · `Flask` · `PostgreSQL` · `MySQL` · `MongoDB` · `HTML` · `CSS` · `JavaScript` · `React` · `Git` . `GitHub`
 
 ---
-
-### 📊 GitHub Stats
 Sometimes I just like to watch this snake while he’s eating my commits.
 ![snake gif](https://github.com/Abdo-Nady/Abdo-Nady/blob/output/github-snake-dark.svg)
 
