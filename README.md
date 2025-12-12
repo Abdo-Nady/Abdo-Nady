@@ -33,8 +33,7 @@ For me, learning isn’t just a phase — it’s a habit. I love diving into new
 ---
 
 ### 📊 GitHub Stats
-![Nady's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdo-Nady&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdo-Nady&layout=compact&theme=tokyonight)
+Sometimes I just like to watch this snake while he’s eating my commits.
 ![snake gif](https://github.com/Abdo-Nady/Abdo-Nady/blob/output/github-snake-dark.svg)
 
 ---
