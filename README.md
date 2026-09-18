@@ -41,26 +41,6 @@ data, and the kind of transactional integrity that has to hold under real operat
 
 ---
 
-### Selected projects
-
-**[LegalMind](https://github.com/Abdo-Nady/LegalMind)** — AI legal document intelligence platform
-A RAG system over Egyptian legal texts: PDF ingestion and chunking, OpenAI embeddings
-stored in pgvector, semantic retrieval through LangChain, and heavy extraction work
-offloaded to Celery workers. Runs as a five-service Docker Compose stack.
-`Django` `React` `LangChain` `pgvector` `Celery` `Redis` `Docker`
-
-**[E-Commerce Web App](https://github.com/Abdo-Nady/E-Commerce-)** — React storefront
-Redux Toolkit for cart and global state, React Hook Form with Yup validation, and
-EN/AR internationalization with RTL layout support.
-`React` `Redux Toolkit` `Vite`
-
-**[Bash DBMS](https://github.com/Abdo-Nady/Bash-DBMS)** — a database engine in shell
-Simulates core DBMS operations using the filesystem — tables, records, and queries
-implemented entirely in Bash.
-`Bash` `Linux`
-
----
-
 ### Reach me
 
 [LinkedIn](https://www.linkedin.com/in/abdelrahman-nady-02576424a/) · <nady.20545@gmail.com>
